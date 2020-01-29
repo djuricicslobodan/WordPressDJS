@@ -14,3 +14,4 @@ Ovo je prvi tekst dokument za vezbu na kome radi cela grupa.
 
 Ovo je promena na master grani.
 promena na 3.grani.
+Promena posle 2 min.

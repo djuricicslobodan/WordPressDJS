@@ -11,3 +11,5 @@ Ovo je prvi tekst dokument za vezbu na kome radi cela grupa.
 
 
 13.Trinaesti red
+
+Ovo je promena na master grani.
